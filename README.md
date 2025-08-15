@@ -1,5 +1,7 @@
 # gemini-cli
 
+[![Mentioned in Awesome Gemini CLI](https://awesome.re/mentioned-badge.svg)](https://github.com/Piebald-AI/awesome-gemini-cli)
+
 A Neovim plugin to seamlessly integrate the Gemini CLI.
 
 <https://github.com/user-attachments/assets/a40b8bab-9a9c-4654-878e-c6f03577585c>
